@@ -1,28 +1,16 @@
 {
-	"response": [
-		{
-			"maintainer": "Android-sudo (global)",
-			"oem": "Redmi",
-			"device": "Redmi 9",
-			"filename": "Matrixx-v10.5.3-Unofficial-lancelot-Gapps-20240616.zip",
-			"download": "https://sourceforge.net/projects/redmi-9-firmware-all/files/matrixx/14/Matrixx-v10.5.3-Unofficial-lancelot-Gapps-20240616.zip/download",
-			"timestamp": ,
-			"md5": "25c3b03f44c309509d21688b97334b68",
-			"sha256": "35e20983a597a5650ea21e7fe5888a0e8fa10ed8be0ab55a2b9b0beed1da4802",
-			"size": ,
-			"version": "10.5.3",
-			"buildtype": "Monthly",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "https://t.me/andexzuxiaomi",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
-		}
-	]
+  "response": [
+    {
+        "maintainer": "Android-sudo (global)",
+        "oem": "Redmi",
+        "device": "Redmi 9",
+        "device_name": "",
+        "filename": "Matrixx-v10.5.3-Unofficial-lancelot-Gapps-20240616.zip",
+        "download": "https://sourceforge.net/projects/redmi-9-firmware-all/files/matrixx/14/Matrixx-v10.5.3-Unofficial-lancelot-Gapps-20240617.zip/download",
+        "timestamp": 1718614980,
+        "md5": "25c3b03f44c309509d21688b97334b68",
+        "size": 1824559240,
+        "version": "v10.5.3"
+    }
+  ]
 }
