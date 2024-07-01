@@ -1,6 +1,8 @@
 ====================
      01-07-2024
 ====================
+ -   * packages/apps/Settings
+daa6069 settings: Import illustrations from motorola
  - test 
  - ksu
  - free
