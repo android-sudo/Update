@@ -1,6 +1,7 @@
 ====================
-     01-07-2024
+     09-10-2024
 ====================
+ -   * security-patch-level=2024-08-05
  -   * packages/apps/Settings
 daa6069 settings: Import illustrations from motorola
  - test 
