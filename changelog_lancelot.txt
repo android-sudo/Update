@@ -1,4 +1,14 @@
 ====================
+     09-15-2024
+====================
+
+   * kernel/xiaomi/mt6768
+203ff3c63 Replace lancelot_defconfig
+
+   * packages/apps/Updater
+775fe92 Update strings.xml
+
+====================
      09-10-2024
 ====================
  -   * security-patch-level=2024-08-05
