@@ -1,1 +1,28 @@
-
+{
+	"response": [
+		{
+			"maintainer": "Global",
+			"oem": "Redmi",
+			"device": "Redmi 9",
+			"filename": "crDroidAndroid-13.0-20240916-lancelot-v9.20.zip",
+			"download": "https://sourceforge.net/projects/redmi-9-firmware-all/files/lancelot/9.x/crDroidAndroid-13.0-20240916-lancelot-v9.20.zip/download",
+			"timestamp": 1726498852,
+			"md5": "8885b6e872c46bf16ca2a0abd30e3c43",
+			"sha256": "54dac8a20a38c62f1e585c2bb0f5599496ae67ac0777d2f5babb457285d9674e",
+			"size": 1095673579,
+			"version": "9.20",
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-13-official-crdroid-v9-8-aosp-stable.4625907/",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/16-Jul-2023/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/andexzuxiaomi",
+			"dt": "https://github.com/crdroidandroid/android_device_xiaomi_lancelot",
+			"common-dt": "https://github.com/crdroidandroid/android_device_xiaomi_mt6768-common",
+			"kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_mt6768"
+		}
+	]
+}
